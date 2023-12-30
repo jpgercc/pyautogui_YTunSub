@@ -21,7 +21,7 @@ HOW TO USE IT:
     Run main.py
   </li>
   <li>
-    Press ALT + TAB (You have a 1 second interval for this, then the program will start working.)
+    Press ALT + TAB (You have a 1 second interval for this, then the program will start working.) <b>or</b> simply work with the app on half screen
   </li>
 </ol>
 
