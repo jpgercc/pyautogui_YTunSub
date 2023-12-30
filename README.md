@@ -1,6 +1,6 @@
 This is a potato code to Unsibricre from all YouTube channels on your account.
 ---
-It is not a scalable application, it only works on my screen, so you will need to change the values, the <a href='https://github.com/jpgercc/pyautogui_YTunSub/blob/main/test.py'>test.py</a> class should help you with this.
+It is not a scalable application, it only works on my screen, so you will need to change the values, the <a href='https://github.com/jpgercc/pyautogui_YTunSub/blob/main/test.py'>test.py </a> class should help you with this.
 
 REQUIREMENTS:
 <ul>
